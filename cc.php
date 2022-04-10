@@ -3,10 +3,8 @@
 // DONT CHANGE THIS
 
 /*  ================[INFO]================
- *   AUTHOR  : ZLAXTERT
+ *   AUTHOR  : iDevice
  *   SCRIPT  : CREDIT CARD CHECKER
- *   GITHUB  : https://github.com/ZLAXTERT
- *   IG      : https://instagram.com/zlaxtert
  *   VERSION : 1.1 (CLI)
  *  ======================================
  */
@@ -102,7 +100,7 @@ DATE : $date
   UNKNOWN : $u
   ERROR : $e 
 ==========================
-     THANKS FOR USING
+     THANKS FOR USING the Master United Checker
 ";
 
 function banner(){
@@ -112,7 +110,7 @@ function banner(){
     / /__/ /__  / /__/ _  / _// /__/ ,< / _// , _/
     \___/\___/  \___/_//_/___/\___/_/|_/___/_/|_| 
 ------------------------------------------------------
-  AUTHOR  : ZLAXTERT
+  AUTHOR  : iDevice
   VERSION : 1.1
   SCRIPT  : CREDIT CARD CHECKER STRIPE CHARGER
 ------------------------------------------------------
